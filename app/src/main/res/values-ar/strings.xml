@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">لعبة أكس - أو</string>
+    <string name="player_1">اللاعب الأول : 0</string>
+    <string name="player_2">اللاعب الثانى : 0</string>
+    <string name="reset_text">اعادة ضبط</string>
+    <string name="eng_lang">الانجليزية</string>
+    <string name="ara_lang">العربية</string>
+    <string name="change_lang_Text">تغيير اللغة</string>
+</resources>

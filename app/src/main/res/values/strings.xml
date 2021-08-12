@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="player_1">Player 1 : 0</string>
+    <string name="player_2">Player 2 : 0</string>
+    <string name="reset_text">Reset</string>
+    <string name="eng_lang">Eng</string>
+    <string name="ara_lang">Ar</string>
+    <string name="change_lang_Text">Change Language</string>
+</resources>
